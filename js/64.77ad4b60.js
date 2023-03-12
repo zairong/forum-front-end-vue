@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkforum_front_end_vue"]=self["webpackChunkforum_front_end_vue"]||[]).push([[64],{6064:function(n,u,e){e.r(u),e.d(u,{default:function(){return _}});var r=function(){var n=this,u=n._self._c;return u("h1",[n._v(" 404 Page Not Found ")])},t=[],f=e(1001),l={},o=(0,f.Z)(l,r,t,!1,null,null,null),_=o.exports}}]);
+//# sourceMappingURL=64.77ad4b60.js.map
